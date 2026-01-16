@@ -28,7 +28,7 @@
     "react-leaflet": "^4.1.0",
     "react-multilevel-sidebar": "^1.0.4",
     "react-pro-sidebar": "^1.0.0-alpha.7",
-    "react-router-dom": "^6.4.3",
+    "react-router-dom": "^6.30.3",
     "react-tsparticles": "^2.5.1",
     "swiper": "^8.4.4",
     "tsparticles": "^2.5.1",
